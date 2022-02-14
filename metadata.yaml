@@ -1,0 +1,36 @@
+_repo: The-Life-of-Jesus-Christ-for-the-Young-Vol-IV-and-His-Life-Depicted-in-a-Gallery-of-Eighty-Pa__67268
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hole, William
+    alias: Hole, William Brassey
+    birthdate: 1846
+    deathdate: 1917
+    gutenberg_agent_id: '36946'
+    url: http://www.gutenberg.org/2009/agents/36946
+creator:
+  author:
+    agent_name: Newton, Richard
+    birthdate: 1813
+    deathdate: 1887
+    gutenberg_agent_id: '4005'
+    url: http://www.gutenberg.org/2009/agents/4005
+description: ''
+gutenberg_issued: '2022-01-28'
+identifiers:
+  gutenberg: '67268'
+language: en
+pgterms:marc905: 20200730132802newton
+pgterms:marc906: '1913'
+pgterms:marc907: US
+production_note: Juliet Sutherland and the Online Distributed Proofreading Team at
+  https://www.pgdp.net
+publication_note: United States :George Barrie's Sons,1913.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Life of Jesus Christ for the Young, Vol. IV: and His Life Depicted in
+  a Gallery of Eighty Paintings'
+url: http://www.gutenberg.org/ebooks/67268
